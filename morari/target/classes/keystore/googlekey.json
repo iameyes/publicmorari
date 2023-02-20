@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "morari-378408",
+  "private_key_id": "857269ccc7e8956f0e3ce10c01d3d33210482b5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQXHzaWU2xtc7p\nkt0sZo1NBNmpNwLYVSRK3esywDvOdFjx4vCW9LLZ0mKeat0Kd7aNmDGWAkg9oPO5\niwx02dW4hzvlJVouOc6H9awSt6VFbkHgjAyYtr0fTaVW3Y3bYbyhpu2Px91pWoXW\n64pjcapFi/pQ701KQusXdfTlFzGOFN38Xio/QsgKQ2F7iS+xr5uR2k7brtenqcLu\nPJOLksoyys4DAvoUfOaJBPtpzm3Ha/HAtxP00jbWqM60wFVTNQLiEi9CgGPxv3j5\npm9tfIp3EhzdhSvqh8JJl+lzBwr7qSAIaTt2Cbmh68idrVZ/GSVQGLKPIZu76RCG\nsNBDAnJpAgMBAAECggEABOG93SHNg7XmSKuzuegXNHBCJ0hOLUJlbMmhSpmdbRtl\nwBkYmPjXvenDfMG1NxsR8GRZ+RFJnwQH4deDrbMy4jVs7lP/NmkNUTss0m1yFlvc\neEXfv648ZSDdGFltiu/RyxnNpBpDMkY4L45qOiU+H44FieLpdS13M6AEYl+2PgVt\nTqbGB9zCrnRwjSJJ1qgVrN4xBAsR25cpABbkhSJV71G31fTpeTSiGrK54wHnEkuc\nyM1qCM9XkLp1bAArXRlhLSUdz806yrccszalUtwrfWPQ1gRll2Z4E0qXozWZ0/I4\nhDD/gF62Tu9abibsO2/Zr8hhVw/BiBhiyUcdyGWY2QKBgQDxpfA3VYJqFywS/SD8\nMYf1hpU6NjPFgKlsy5Od2Q8if/hjotJPMFACksOdyS75p/XayKG2qVJAF3ibFjLi\nY5/+kEXCulRY9Cywmm8uGm6tcwhBdlaViFgUprXGykBKCuUzyYcEOMmoXErNIPKz\nwX/gBbkFeucsBkqoKCcJ5F1IJQKBgQDcvHMA5R45PC2QFhECvnAd7J2LpWIUSwKS\ncl7VhAXvnN9k2EVvmjeCSqT3o34DTZzBdJdEaofSDnXIV1j0WZN4b8Jti7/op7pk\nnlhtK8rd1uO5QMwe4OJS5Yszx/8ut+fGKh/e0NiWX8bvEM0+kJH/aYoWCiApi3O/\nNB+68nab9QKBgQCAnfPHX+n0EbVRvg0KbkqRMjrHKwZPPvXuhERjpZ5anIZWcdlC\ncNKFLByWJPitxOokstjv4ht3JYb59MzMln4X/i5DQO2YEw6eSPSYM1VpWGqyfQwE\ntvc6tqjVz9x8DGSGNeN5KcibpdPiboD/kCRB1onuEsZsNkUST5zHtRa5SQKBgAiq\niWVWmXorx6opg5909JfoK0NJSfF8BGzVeq2tUkJXCVo/N3KrPlSqM5HZZGAi0u2x\ncyLnf8+aa7ti2oY1YhnPYXXFj9JFi4bZxKT8nClbf3NNfPYVZC1W/8EXsAgYhkv8\naWXpEyfMONY39aboLCM39Ijq+tpGtFOkaz5+uHNlAoGAN7be21SgUh0OYjbPTUTl\n8iSoBctVWjJmeYJCPL+5cOmsQ5b6hkmb1IOSfEtrSrZoUB/+XKhiwbxRerc8SQXv\nfpHGdcTrVSK+pQYlASWCA+42+wKlLjzz1U4VmF3Kqup8sMJxYi7b+WTdTXt5V8+h\njzjReGgV6X7wH0DioHs8/Nk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@morari-378408.iam.gserviceaccount.com",
+  "client_id": "105739418796085444957",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40morari-378408.iam.gserviceaccount.com"
+}
